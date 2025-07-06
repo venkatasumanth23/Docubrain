@@ -1,6 +1,10 @@
-streamlit
 langchain
-google-generativeai
-PyPDF2
-pinecone-client
+langchain-community
+langchain-pinecone
+langchain-google-genai
+pinecone-client[grpc]
+chromadb
+sentence-transformers
+streamlit
 python-dotenv
+PyPDF
